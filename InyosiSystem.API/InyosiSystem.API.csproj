@@ -12,6 +12,13 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="Data\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Evidence\" />
+    <Folder Include="Sql\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
